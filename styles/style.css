@@ -238,11 +238,7 @@ a {
   color: white;
   z-index: 1;
 }
-.table__heading {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: 600;
-}
+
 .table__cell_theme-dark {
   width: 200px;
   color: white;
@@ -296,7 +292,7 @@ a {
   font-size: 18px;
   font-weight: normal;
   margin: 0px;
-  margin-bottom: 18px ;
+  margin-bottom: 18px;
   margin-top: 18px;
 }
 .footer__column_content-info {
