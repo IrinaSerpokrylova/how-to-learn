@@ -10,4 +10,4 @@
 А также мы реализовали подход БЭМ к управлению файловой структурой.<br>
 В планах добавить форму обратной связи для посетителей сайта.
 
-irinaserpokrylova.github.io/how-to-learn/
+https://irinaserpokrylova.github.io/how-to-learn/
